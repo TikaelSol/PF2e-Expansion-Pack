@@ -1,0 +1,65 @@
+{
+  "name": "pf2e-expansion-pack",
+  "title": "PF2e Expansion Pack",
+  "description": "The unofficial expansion to Pathfinder 2nd edition.  Contains the \"Pnoll\" ancestry by Logan Bonner now, will contain more content in the future.",
+  "author": "Tikael",
+  "authors": [],
+  "url": "https://github.com/TikaelSol/PF2e-Expansion-Pack",
+  "flags": {},
+  "version": "0.1",
+  "minimumCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "0.8.9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Expansion - Ancestries",
+      "entity": "Item",
+      "name": "Expansion-Ancestries",
+      "path": "./packs/expansion-ancestries.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false
+    },
+    {
+      "label": "Expansion - Feats",
+      "entity": "Item",
+      "name": "Expansion-Feats",
+      "path": "./packs/expansion-feats.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false
+    },
+    {
+      "label": "Expansion - Features",
+      "entity": "Item",
+      "name": "Expansion-Features",
+      "path": "./packs/expansion-features.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false
+    },
+    {
+      "label": "Expansion - Heritages",
+      "entity": "Item",
+      "name": "Expansion-Heritages",
+      "path": "./packs/expansion-heritages.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false
+    }
+  ],
+  "system": [
+    "pf2e"
+  ],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/TikaelSol/PF2e-Expansion-Pack/master/module.json",
+  "download": "https://github.com/TikaelSol/PF2e-Expansion-Pack/archive/refs/heads/main.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "minimumSystemVersion": "2.12.5",
+  "library": false
+}
