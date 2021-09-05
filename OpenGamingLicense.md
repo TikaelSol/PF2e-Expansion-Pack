@@ -33,9 +33,10 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 15. COPYRIGHT NOTICE
 Open Game License v 1.0a © 2000, Wizards of the Coast, Inc.
 System Reference Document © 2000, Wizards of the Coast, Inc.; Authors: Jonathan Tweet, Monte Cook, and Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
-Pathfinder Core Rulebook (Second Edition) © 2019, Paizo Inc.; Designers:
-Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
+Pathfinder Core Rulebook (Second Edition) © 2019, Paizo Inc.; Designers: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
 The Pnoll © 2020, Logan Bonner Games; Author: Logan Bonner.
+Ancestries Unleashed: Rabbitfolk © 2021, Novacat Games; Author: Luis Loza
+
 Pathfinder is a registered trademark of Paizo Inc.
 
 This product is compliant with the Open Game License (OGL) and is suitable for use with the Pathfinder Roleplaying Game (Second Edition).

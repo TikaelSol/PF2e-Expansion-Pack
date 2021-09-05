@@ -6,7 +6,7 @@
   "authors": [],
   "url": "https://github.com/TikaelSol/PF2e-Expansion-Pack",
   "flags": {},
-  "version": "0.1",
+  "version": "0.5",
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "0.8.9",
   "scripts": [],
@@ -46,6 +46,24 @@
       "entity": "Item",
       "name": "Expansion-Heritages",
       "path": "./packs/expansion-heritages.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false
+    },
+    {
+      "label": "Expansion - Equipment",
+      "entity": "Item",
+      "name": "Expansion-Equipment",
+      "path": "./packs/expansion-equipment.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false
+    },
+    {
+      "label": "Expansion - Effects",
+      "entity": "Item",
+      "name": "Expansion-Effects",
+      "path": "./packs/expansion-effects.db",
       "system": "pf2e",
       "package": "pf2e-expansion-pack",
       "private": false
