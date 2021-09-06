@@ -9,8 +9,8 @@ If you like this content please support these creators and companies by buying s
 ## Pnoll Ancestry by Logan Bonner
 The Pnoll is a new ancestry designed by Pathfinder Lead Designer and published at Drive Through RPG by Logan Bonner Games. Logan was kind enough to give permission for his work to be distributed in this module. If you like this please go visit https://www.drivethrurpg.com/product/324196/The-Pnoll-An-Ancestry and purchase the PDF to get all the excellent art and support charity.
 
-## Rabbitfolk Ancestry by Luis Loza
-The Rabbitfolk is a new ancestry designed by Paizo developer Luis Loza and published by Novacat Games.  Luis generously allowed me to add his work to the module.  Be sure to visit Luis' blog https://www.luisloza.com/blog/ to see all the other content which will be added to the module soon, and visit https://www.drivethrurpg.com/product/347915/Ancestries-Unleashed-Rabbitfolk to get a copy of the PDF for yourself!  Also consider supporting Luis on Patreon https://www.patreon.com/luisloza.
+## Rabbitfolk Ancestry, Dragonkin Heritage, Ancestry Exemplar Feats, and Lineage Feats by Luis Loza
+The Rabbitfolk is a new ancestry designed by Paizo developer Luis Loza and published by Novacat Games. Dragonkin is a versatile heritage that any ancestry can take to gain a breath weapon, flight, or even attacks of opportunity! Luis generously allowed me to add his work to the module.  Be sure to visit Luis' blog https://www.luisloza.com/blog/ to see all the other content, and visit https://www.drivethrurpg.com/product/347915/Ancestries-Unleashed-Rabbitfolk to get a copy of the Rabbitfolk PDF for yourself!  Also consider supporting Luis on Patreon https://www.patreon.com/luisloza.
 
 ## More Coming Soon
 This is the initial (unlisted) release version of this module. More content will be added as designers give their OK for it to be featured.  I have reached out to other designers, and have a small backlog of content currently to add.
