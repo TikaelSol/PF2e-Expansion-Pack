@@ -13,7 +13,7 @@ The Pnoll is a new ancestry designed by Pathfinder Lead Designer and published a
 The Rabbitfolk is a new ancestry designed by Paizo developer Luis Loza and published by Novacat Games. Dragonkin is a versatile heritage that any ancestry can take to gain a breath weapon, flight, or even attacks of opportunity! Luis generously allowed me to add his work to the module.  Be sure to visit Luis' blog https://www.luisloza.com/blog/ to see all the other content, and visit https://www.drivethrurpg.com/product/347915/Ancestries-Unleashed-Rabbitfolk to get a copy of the Rabbitfolk PDF for yourself!  Also consider supporting Luis on Patreon https://www.patreon.com/luisloza.
 
 ## More Coming Soon
-This is the initial (unlisted) release version of this module. More content will be added as designers give their OK for it to be featured.  I have reached out to other designers, and have a small backlog of content currently to add.
+This is the initial release version of this module. More content will be added as designers give their OK for it to be featured.  I have reached out to other designers, and have a small backlog of content currently to add.
 
 # Installation
 
