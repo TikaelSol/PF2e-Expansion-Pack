@@ -1,12 +1,12 @@
 {
   "name": "pf2e-expansion-pack",
   "title": "PF2e Expansion Pack",
-  "description": "The unofficial expansion to Pathfinder 2nd edition.  Contains the \"Pnoll\" ancestry by Logan Bonner now, will contain more content in the future.",
+  "description": "The unofficial expansion to Pathfinder 2nd edition.  Contains content from Logan Bonner, Luis Loza, Dustin Knight, and Alexander Augunas, with more coming!",
   "author": "Tikael",
   "authors": [],
   "url": "https://github.com/TikaelSol/PF2e-Expansion-Pack",
   "flags": {},
-  "version": "1.0",
+  "version": "1.1",
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "0.8.9",
   "scripts": [],
@@ -73,6 +73,15 @@
       "entity": "Item",
       "name": "Expansion-Actions",
       "path": "./packs/expansion-actions.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false
+    },
+    {
+      "label": "Expansion - Backgrounds",
+      "entity": "Item",
+      "name": "Expansion-Backgrounds",
+      "path": "./packs/expansion-backgrounds.db",
       "system": "pf2e",
       "package": "pf2e-expansion-pack",
       "private": false

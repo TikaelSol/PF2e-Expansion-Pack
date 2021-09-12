@@ -12,8 +12,16 @@ The Pnoll is a new ancestry designed by Pathfinder Lead Designer and published a
 ## Rabbitfolk Ancestry, Dragonkin Heritage, Ancestry Exemplar Feats, and Lineage Feats by Luis Loza
 The Rabbitfolk is a new ancestry designed by Paizo developer Luis Loza and published by Novacat Games. Dragonkin is a versatile heritage that any ancestry can take to gain a breath weapon, flight, or even attacks of opportunity! Luis generously allowed me to add his work to the module.  Be sure to visit Luis' blog https://www.luisloza.com/blog/ to see all the other content, and visit https://www.drivethrurpg.com/product/347915/Ancestries-Unleashed-Rabbitfolk to get a copy of the Rabbitfolk PDF for yourself!  Also consider supporting Luis on Patreon https://www.patreon.com/luisloza.
 
+## Nashi Ancestry by Alexander Augunas
+Nashi is a new ancestry by Everybody Games' Alexander Augunas.  Nashi are racoon or tanuki folk who specialize in crafting their own weapons, including firearms!  This release is the ancestry and its feats and heritages only, but new class options, equipment, feats, and more will be coming in a future update. So if you want to play as a gun-wielding genius racoon (and who wouldn't? Rocket is great!) then get your copy of the Files for Everybody: Nashi PDF at DriveThroughRPG (https://www.drivethrurpg.com/product/284562/Files-for-Everybody-Nashi) or OpenGamingStore (https://www.opengamingstore.com/products/files-for-everybody-nashi).
+
+## Acrobatics and Stealth Skill Feats by Dustin Knight
+Dustin Knight has a series of skill feat books for Everybody Games, this first release of Everybody games content includes his work on Acrobatics and Stealth.  If you've ever wanted to surf your shield across a lake of lava, convert your fall damage into a devastating pounce, quickly conceal the dagger you just stabbed with, or smoke bomb your way out of sight these skill feats are what you want.  Get your copy of the PDFs here:
+ - Files for everybody: Acrobatic Feats (https://www.drivethrurpg.com/product/285878/Files-for-Everybody-Acrobatics-Feats) or (https://www.opengamingstore.com/products/files-for-everybody-acrobatics-feats)
+ - Files for Everybody: Stealth Feats (https://www.drivethrurpg.com/product/288667/Files-for-Everybody-Stealth-Feats) or (https://www.opengamingstore.com/products/files-for-everybody-stealth-feats)
+
 ## More Coming Soon
-This is the initial release version of this module. More content will be added as designers give their OK for it to be featured.  I have reached out to other designers, and have a small backlog of content currently to add.
+More content will be added as designers give their OK for it to be featured.  I have permission to release all the Everybody Games content up to September 2021, and I have reached out to other designers, and have a small backlog of content currently to add.
 
 # Installation
 
@@ -23,5 +31,5 @@ Once enabled in a world it will add new compendiums, all beginning with "Expansi
 
 ### Game Icons
 Additional icons were created on https://game-icons.net/. Thank you to the artists who provide their work under CC licenses so projects like this can be done freely.
-- Rabbit head icon by Delapouite
+- Rabbit head and Raccoon head icons by Delapouite
 - Direwolf icon by Lorc
