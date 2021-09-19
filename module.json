@@ -6,7 +6,7 @@
   "authors": [],
   "url": "https://github.com/TikaelSol/PF2e-Expansion-Pack",
   "flags": {},
-  "version": "1.1",
+  "version": "1.2",
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "0.8.9",
   "scripts": [],
@@ -82,6 +82,15 @@
       "entity": "Item",
       "name": "Expansion-Backgrounds",
       "path": "./packs/expansion-backgrounds.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false
+    },
+    {
+      "label": "Expansion - Spells",
+      "entity": "Item",
+      "name": "Expansion-Spells",
+      "path": "./packs/expansion-spells.db",
       "system": "pf2e",
       "package": "pf2e-expansion-pack",
       "private": false

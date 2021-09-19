@@ -34,13 +34,16 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 Open Game License v 1.0a © 2000, Wizards of the Coast, Inc.
 System Reference Document © 2000, Wizards of the Coast, Inc.; Authors: Jonathan Tweet, Monte Cook, and Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
 Pathfinder Core Rulebook (Second Edition) © 2019, Paizo Inc.; Designers: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
-The Pnoll © 2020, Logan Bonner Games; Author: Logan Bonner.
-Ancestries Unleashed: Rabbitfolk © 2021, Novacat Games; Author: Luis Loza.
-Luis Loza Blog © 2020, 2021; Author: Luis Loza
 Files for Everybody: Nashi © 2019, Everybody Games; Author: Alexander Augunas.
 Files for Everybody: Acrobatics Feats © 2019, Everybody Games; Author: Dustin Knight; Developer: Alexander Augunas.
 Files for Everybody: Stealth Feats © 2019, Everybody Games; Author: Dustin Knight; Developer: Alexander Augunas.
-
+Files for Everybody: Medicine Feats © 2019, Everybody Games; Author: Dustin Knight; Developer: Alexander Augunas.
+Files for Everybody: Yroometji © 2019, Everybody Games; Author: Alexander Augunas.
+The Pnoll © 2020, Logan Bonner Games; Author: Logan Bonner.
+Ancestries Unleashed: Rabbitfolk © 2021, Novacat Games; Author: Luis Loza.
+Luis Loza Blog © 2020, 2021; Author: Luis Loza
+Eldritch Ancestries: Bugbear © 2020, An Eldritch Dream Games; Author: Shawn Pommier.
+Eldritch Ancestries: Felsine © 2021, An Eldritch Dream Games; Author: Shawn Pommier.
 
 Pathfinder is a registered trademark of Paizo Inc.
 
