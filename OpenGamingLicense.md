@@ -39,6 +39,7 @@ Files for Everybody: Acrobatics Feats © 2019, Everybody Games; Author: Dustin K
 Files for Everybody: Stealth Feats © 2019, Everybody Games; Author: Dustin Knight; Developer: Alexander Augunas.
 Files for Everybody: Medicine Feats © 2019, Everybody Games; Author: Dustin Knight; Developer: Alexander Augunas.
 Files for Everybody: Yroometji © 2019, Everybody Games; Author: Alexander Augunas.
+Files for Everybody: Arcana Feats © 2020, Everybody Games; Author: Dustin Knight; Developer: Alexander Augunas.
 The Pnoll © 2020, Logan Bonner Games; Author: Logan Bonner.
 Ancestries Unleashed: Rabbitfolk © 2021, Novacat Games; Author: Luis Loza.
 Luis Loza Blog © 2020, 2021; Author: Luis Loza
