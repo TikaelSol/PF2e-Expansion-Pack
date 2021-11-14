@@ -17,12 +17,15 @@ Nashi is a new ancestry by Everybody Games' Alexander Augunas. Nashi are racoon 
 
 Yroometji is another new ancestry, bound across the battlefield as a kangaroo-folk. Mark yourself with ancestral paint to gain new reactions, combine leaps and strides to cover vast distances, or spring forward off your tail to deliver devastating attacks! This release includes the ancestry, dozens of pieces of new equipment, a new druid order, monk feats, and ranger edges. Get your copy of the Files for Everybody: Yroometji PDF at DriveThroughRPG (https://www.drivethrurpg.com/product/291208/Files-for-Everybody-Yroometjis) or OpenGamingStore (https://www.opengamingstore.com/products/files-for-everybody-yroometjis).
 
+32 New fighter class feats, including the ability to grant your allies your weapon proficiency briefly, intimidate with your weapon prowess, wield a greatsword one handed, and more! New Exhaust actions let you exceed your limits briefly, recovering only after spending time.  Get your PDF now at DriveThroughRPG (https://www.drivethrurpg.com/product/297587/Files-for-Everybody-Fighter-Options)
+
 ## Skill Feats by Dustin Knight
 Dustin Knight has a series of skill feat books for Everybody Games, this version of the module includes his work on Acrobatics, Medicine, and Stealth. If you've ever wanted to surf your shield across a lake of lava, convert your fall damage into a devastating pounce, quickly conceal the dagger you just stabbed with, smoke bomb your way out of sight, or use your knowledge of acupuncture to sicken your foes then these skill feats are what you want! Get your copy of the PDFs here:
  - Files for everybody: Acrobatic Feats (https://www.drivethrurpg.com/product/285878/Files-for-Everybody-Acrobatics-Feats) or (https://www.opengamingstore.com/products/files-for-everybody-acrobatics-feats)
  - Files for Everybody: Stealth Feats (https://www.drivethrurpg.com/product/288667/Files-for-Everybody-Stealth-Feats) or (https://www.opengamingstore.com/products/files-for-everybody-stealth-feats)
  - Files for Everybody: Medicine Feats (https://www.drivethrurpg.com/product/292874/Files-for-Everybody-Medicine-Feats)
  - Files for Everybody: Arcana Feats (https://www.drivethrurpg.com/product/300000/Files-for-Everybody-Arcana-Feats)
+ - Files for Everybody: Athletics Feats (https://www.drivethrurpg.com/product/307748/Files-for-Everybody-Athletics-Feats)
 
 ## Felsine and Bugbear Ancestries by Shawn Pommier
 Felsine is a new ancestry from An Eldritch Dreams Games. Felsine, or "Kittfolk", are small sized feline humanoids who can specialize in healing their allies, cursing their enemies, or using their signature Battle-Horn as both a weapon and instrument. Get your copy of Felsine now at itch.io (https://eldritchdream.itch.io/felsine)!
