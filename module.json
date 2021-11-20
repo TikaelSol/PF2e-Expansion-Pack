@@ -6,7 +6,7 @@
   "authors": [],
   "url": "https://github.com/TikaelSol/PF2e-Expansion-Pack",
   "flags": {},
-  "version": "1.4",
+  "version": "1.4.1",
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "0.8.9",
   "scripts": [],
@@ -105,6 +105,6 @@
   "download": "https://github.com/TikaelSol/PF2e-Expansion-Pack/archive/refs/heads/main.zip",
   "protected": false,
   "coreTranslation": false,
-  "minimumSystemVersion": "2.18.3",
+  "minimumSystemVersion": "2.19.0",
   "library": false
 }
