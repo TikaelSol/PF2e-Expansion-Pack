@@ -35,15 +35,26 @@ Open Game License v 1.0a © 2000, Wizards of the Coast, Inc.
 System Reference Document © 2000, Wizards of the Coast, Inc.; Authors: Jonathan Tweet, Monte Cook, and Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
 Pathfinder Core Rulebook (Second Edition) © 2019, Paizo Inc.; Designers: Logan Bonner, Jason Bulmahn, Stephen Radney-MacFarland, and Mark Seifter.
 Files for Everybody: Nashi © 2019, Everybody Games; Author: Alexander Augunas.
+Files for Everybody © 2019, Everybody Games. Author: Alexander Augunas; Developer: Alexander Augunas
 Files for Everybody: Acrobatics Feats © 2019, Everybody Games; Author: Dustin Knight; Developer: Alexander Augunas.
 Files for Everybody: Stealth Feats © 2019, Everybody Games; Author: Dustin Knight; Developer: Alexander Augunas.
 Files for Everybody: Medicine Feats © 2019, Everybody Games; Author: Dustin Knight; Developer: Alexander Augunas.
 Files for Everybody: Yroometji © 2019, Everybody Games; Author: Alexander Augunas.
+Files for Everybody: Mephians © 2019, Everybody Games; Author: Alexander Augunas.
+Files for Everybody: Conjuration Spells © 2019, Paizo Inc.; Designers: Thilo Graf. Developers: Alexander Augunas.
+Files for Everybody: Evocation Spells © 2019, Everybody Games LLC; Designers: Thilo Graf; Developers: Alexander Augunas
+Files for Everybody: Divination Spells © 2019, Everybody Games; Author: Thilo Graf; Developer: Alexander Augunas.
 Files for Everybody: Arcana Feats © 2020, Everybody Games; Author: Dustin Knight; Developer: Alexander Augunas.
+Files for Everybody: Athletics Feats © 2020, Paizo Inc.; Designers: Dustin Knight. Developers: Alexander Augunas.
+Files for Everybody: Trickster Spells © 2020, Paizo Inc.; Author: Thilo Graft; Developer: Alexander Augunas.
+Files for Everybody: Polymorph Spells © 2020, Paizo Inc.; Designers: Thilo Graf. Developers: Alexander Augunas.
+Files for Everybody: Rituals © 2020, Everybody Games LLC; Designer: Alexander Augunas. Developer: Alexander Augunas.
+Files for Everybody: Pugilist Options © 2020, Paizo Inc.; Designer: Alexander Augunas; Developer: Alexander Augunas.
 The Pnoll © 2020, Logan Bonner Games; Author: Logan Bonner.
 Ancestries Unleashed: Rabbitfolk © 2021, Novacat Games; Author: Luis Loza.
 Luis Loza Blog © 2020, 2021; Author: Luis Loza
 Eldritch Ancestries: Bugbear © 2020, An Eldritch Dream Games; Author: Shawn Pommier.
+Eldritch Ancestries: Merfolk © 2020, An Eldritch Dream Games; Author: Shawn Pommier.
 Eldritch Ancestries: Felsine © 2021, An Eldritch Dream Games; Author: Shawn Pommier.
 
 Pathfinder is a registered trademark of Paizo Inc.
