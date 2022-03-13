@@ -1,102 +1,10 @@
 {
   "name": "pf2e-expansion-pack",
   "title": "PF2e Expansion Pack",
-  "description": "The unofficial expansion to Pathfinder 2nd edition.  Contains content from Logan Bonner, Luis Loza, Dustin Knight, and Alexander Augunas, with more coming!",
+  "description": "The unofficial expansion to Pathfinder 2nd edition.  Contains content from Logan Bonner, Luis Loza, Dustin Knight, Alexander Augunas, Shawn Pommier, and Thilo Graf!",
   "author": "Tikael",
   "authors": [],
   "url": "https://github.com/TikaelSol/PF2e-Expansion-Pack",
-  "flags": {},
-  "version": "2.0",
-  "minimumCoreVersion": "0.8.9",
-  "compatibleCoreVersion": "0.8.9",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
-  "packs": [{
-    "label": "Expansion - Ancestries",
-    "entity": "Item",
-    "name": "Expansion-Ancestries",
-    "path": "./packs/expansion-ancestries.db",
-    "system": "pf2e",
-    "package": "pf2e-expansion-pack",
-    "private": false
-  }, {
-    "label": "Expansion - Feats",
-    "entity": "Item",
-    "name": "Expansion-Feats",
-    "path": "./packs/expansion-feats.db",
-    "system": "pf2e",
-    "package": "pf2e-expansion-pack",
-    "private": false
-  }, {
-    "label": "Expansion - Features",
-    "entity": "Item",
-    "name": "Expansion-Features",
-    "path": "./packs/expansion-features.db",
-    "system": "pf2e",
-    "package": "pf2e-expansion-pack",
-    "private": false
-  }, {
-    "label": "Expansion - Heritages",
-    "entity": "Item",
-    "name": "Expansion-Heritages",
-    "path": "./packs/expansion-heritages.db",
-    "system": "pf2e",
-    "package": "pf2e-expansion-pack",
-    "private": false
-  }, {
-    "label": "Expansion - Equipment",
-    "entity": "Item",
-    "name": "Expansion-Equipment",
-    "path": "./packs/expansion-equipment.db",
-    "system": "pf2e",
-    "package": "pf2e-expansion-pack",
-    "private": false
-  }, {
-    "label": "Expansion - Effects",
-    "entity": "Item",
-    "name": "Expansion-Effects",
-    "path": "./packs/expansion-effects.db",
-    "system": "pf2e",
-    "package": "pf2e-expansion-pack",
-    "private": false
-  }, {
-    "label": "Expansion - Actions",
-    "entity": "Item",
-    "name": "Expansion-Actions",
-    "path": "./packs/expansion-actions.db",
-    "system": "pf2e",
-    "package": "pf2e-expansion-pack",
-    "private": false
-  }, {
-    "label": "Expansion - Backgrounds",
-    "entity": "Item",
-    "name": "Expansion-Backgrounds",
-    "path": "./packs/expansion-backgrounds.db",
-    "system": "pf2e",
-    "package": "pf2e-expansion-pack",
-    "private": false
-  }, {
-    "label": "Expansion - Spells",
-    "entity": "Item",
-    "name": "Expansion-Spells",
-    "path": "./packs/expansion-spells.db",
-    "system": "pf2e",
-    "package": "pf2e-expansion-pack",
-    "private": false
-  }],
-  "system": [
-    "pf2e"
-  ],
-  "dependencies": [],
-  "socket": false,
-  "manifest": "https://raw.githubusercontent.com/TikaelSol/PF2e-Expansion-Pack/master/module.json",
-  "download": "https://github.com/TikaelSol/PF2e-Expansion-Pack/archive/refs/heads/main.zip",
-  "protected": false,
-  "coreTranslation": false,
-  "minimumSystemVersion": "2.20.0",
-  "library": false,
   "flags": {
     "pf2e-expansion-pack": {
       "pf2e-homebrew": {
@@ -180,7 +88,10 @@
           "tanuki": "Tanuki"
         },
         "weaponTraits": {
-          "cable": {"label": "Cable", "description": "Weapons or ammunition that have attached to it a length of cable or rope that is 50 feet long, if fired into a surface it acts as rope for the sake of trying to climb, assuming the weapon pierces the surface it hits. If fired into a creature the tether remains in them and can be grabbed to prevent them from running away with a Athletics check against the creature's Athletics DC. If the cable weapon strikes less than 50 feet away, the attacker may spend an action to grab onto it."},
+          "cable": {
+            "label": "Cable",
+            "description": "Weapons or ammunition that have attached to it a length of cable or rope that is 50 feet long, if fired into a surface it acts as rope for the sake of trying to climb, assuming the weapon pierces the surface it hits. If fired into a creature the tether remains in them and can be grabbed to prevent them from running away with a Athletics check against the creature's Athletics DC. If the cable weapon strikes less than 50 feet away, the attacker may spend an action to grab onto it."
+          },
           "capacity-2": {
             "label": "Capacity 2",
             "description": "PF2E.TraitDescriptionCapacity"
@@ -260,5 +171,106 @@
         }
       }
     }
-  }
+  },
+  "version": "2.2",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Expansion - Ancestries",
+      "name": "Expansion-Ancestries",
+      "path": "./packs/expansion-ancestries.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false,
+      "type": "Item"
+    },
+    {
+      "label": "Expansion - Feats",
+      "name": "Expansion-Feats",
+      "path": "./packs/expansion-feats.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false,
+      "type": "Item"
+    },
+    {
+      "label": "Expansion - Features",
+      "name": "Expansion-Features",
+      "path": "./packs/expansion-features.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false,
+      "type": "Item"
+    },
+    {
+      "label": "Expansion - Heritages",
+      "name": "Expansion-Heritages",
+      "path": "./packs/expansion-heritages.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false,
+      "type": "Item"
+    },
+    {
+      "label": "Expansion - Equipment",
+      "name": "Expansion-Equipment",
+      "path": "./packs/expansion-equipment.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false,
+      "type": "Item"
+    },
+    {
+      "label": "Expansion - Effects",
+      "name": "Expansion-Effects",
+      "path": "./packs/expansion-effects.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false,
+      "type": "Item"
+    },
+    {
+      "label": "Expansion - Actions",
+      "name": "Expansion-Actions",
+      "path": "./packs/expansion-actions.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false,
+      "type": "Item"
+    },
+    {
+      "label": "Expansion - Backgrounds",
+      "name": "Expansion-Backgrounds",
+      "path": "./packs/expansion-backgrounds.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false,
+      "type": "Item"
+    },
+    {
+      "label": "Expansion - Spells",
+      "name": "Expansion-Spells",
+      "path": "./packs/expansion-spells.db",
+      "system": "pf2e",
+      "package": "pf2e-expansion-pack",
+      "private": false,
+      "type": "Item"
+    }
+  ],
+  "system": [
+    "pf2e"
+  ],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://raw.githubusercontent.com/TikaelSol/PF2e-Expansion-Pack/master/module.json",
+  "download": "https://github.com/TikaelSol/PF2e-Expansion-Pack/archive/refs/heads/main.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "minimumSystemVersion": "3.7.0",
+  "library": false
 }
