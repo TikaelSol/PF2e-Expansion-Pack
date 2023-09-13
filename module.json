@@ -1,5 +1,4 @@
 {
-  "name": "pf2e-expansion-pack",
   "title": "PF2e Expansion Pack",
   "description": "The unofficial expansion to Pathfinder 2nd edition.  Contains content from Logan Bonner, Luis Loza, Dustin Knight, Alexander Augunas, Shawn Pommier, and Thilo Graf!",
   "url": "https://github.com/TikaelSol/PF2e-Expansion-Pack",
@@ -170,101 +169,92 @@
       }
     }
   },
-  "version": "2.3",
+  "version": "2.3.1",
   "packs": [
     {
       "label": "Expansion - Ancestries",
       "name": "Expansion-Ancestries",
-      "path": "./packs/expansion-ancestries.db",
+      "path": "packs/expansion-ancestries.db",
       "system": "pf2e",
-      "package": "pf2e-expansion-pack",
       "private": false,
       "type": "Item",
-      "entity": "Item"
+      "flags": {}
     },
     {
       "label": "Expansion - Feats",
       "name": "Expansion-Feats",
-      "path": "./packs/expansion-feats.db",
+      "path": "packs/expansion-feats.db",
       "system": "pf2e",
-      "package": "pf2e-expansion-pack",
       "private": false,
       "type": "Item",
-      "entity": "Item"
+      "flags": {}
     },
     {
       "label": "Expansion - Features",
       "name": "Expansion-Features",
-      "path": "./packs/expansion-features.db",
+      "path": "packs/expansion-features.db",
       "system": "pf2e",
-      "package": "pf2e-expansion-pack",
       "private": false,
       "type": "Item",
-      "entity": "Item"
+      "flags": {}
     },
     {
       "label": "Expansion - Heritages",
       "name": "Expansion-Heritages",
-      "path": "./packs/expansion-heritages.db",
+      "path": "packs/expansion-heritages.db",
       "system": "pf2e",
-      "package": "pf2e-expansion-pack",
       "private": false,
       "type": "Item",
-      "entity": "Item"
+      "flags": {}
     },
     {
       "label": "Expansion - Equipment",
       "name": "Expansion-Equipment",
-      "path": "./packs/expansion-equipment.db",
+      "path": "packs/expansion-equipment.db",
       "system": "pf2e",
-      "package": "pf2e-expansion-pack",
       "private": false,
       "type": "Item",
-      "entity": "Item"
+      "flags": {}
     },
     {
       "label": "Expansion - Effects",
       "name": "Expansion-Effects",
-      "path": "./packs/expansion-effects.db",
+      "path": "packs/expansion-effects.db",
       "system": "pf2e",
-      "package": "pf2e-expansion-pack",
       "private": false,
       "type": "Item",
-      "entity": "Item"
+      "flags": {}
     },
     {
       "label": "Expansion - Actions",
       "name": "Expansion-Actions",
-      "path": "./packs/expansion-actions.db",
+      "path": "packs/expansion-actions.db",
       "system": "pf2e",
-      "package": "pf2e-expansion-pack",
       "private": false,
       "type": "Item",
-      "entity": "Item"
+      "flags": {}
     },
     {
       "label": "Expansion - Backgrounds",
       "name": "Expansion-Backgrounds",
-      "path": "./packs/expansion-backgrounds.db",
+      "path": "packs/expansion-backgrounds.db",
       "system": "pf2e",
-      "package": "pf2e-expansion-pack",
       "private": false,
       "type": "Item",
-      "entity": "Item"
+      "flags": {}
     },
     {
       "label": "Expansion - Spells",
       "name": "Expansion-Spells",
-      "path": "./packs/expansion-spells.db",
+      "path": "packs/expansion-spells.db",
       "system": "pf2e",
-      "package": "pf2e-expansion-pack",
       "private": false,
       "type": "Item",
-      "entity": "Item"
+      "flags": {}
     }
   ],
   "compatibility": {
-    "minimum": "10",
+    "minimum": "0.8.9",
     "verified": "10.288"
   },
   "relationships": {
@@ -279,6 +269,22 @@
       }
     ]
   },
+	"packFolders": [{
+      "name": "PF2e Expansion Pack",
+      "sorting": "m",
+      "packs": [
+        "Expansion-Equipment",
+		"Expansion-Heritages",
+		"Expansion-Feats",
+		"Expansion-Features",
+        "Expansion-Effects",
+        "Expansion-Actions",
+        "Expansion-Backgrounds",
+		"Expansion-Ancestries",
+		"Expansion-Spells"
+        ]
+    }
+  ],
   "authors": [
     {
       "name": "Tikael",
@@ -286,5 +292,6 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/TikaelSol/PF2e-Expansion-Pack/master/module.json",
-  "download": "https://github.com/TikaelSol/PF2e-Expansion-Pack/archive/refs/heads/main.zip"
+  "download": "https://github.com/TikaelSol/PF2e-Expansion-Pack/archive/refs/heads/main.zip",
+  "id": "pf2e-expansion-pack"
 }
