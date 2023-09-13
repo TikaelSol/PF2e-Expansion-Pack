@@ -1,10 +1,12 @@
-# PF2e Expansion Pack
+# PF2e Extension Pack
 
 This module contains additional content for the PF2e system on Foundry.
 
 The goal of this module is to collect professional quality content from third parties.  Many of the contributors to this content have released work for Paizo, either directly as employees or as contractors.
 
 If you like this content please support these creators by buying their content at the links included in the contents section. If you already own them, consider making a donation to a local food bank, animal shelter, https://www.modestneeds.org/, or https://www.msf.org/.
+
+This is a maintenance fork by Teraunce based off of the Expansion Pack version 2.3.0. 
 
 # Module Contents:
 
