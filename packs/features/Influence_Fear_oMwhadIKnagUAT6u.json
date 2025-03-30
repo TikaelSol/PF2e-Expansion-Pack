@@ -1,0 +1,55 @@
+{
+  "folder": "saYIpYe0HQ7WztW5",
+  "name": "Influence Fear",
+  "type": "action",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p><strong>Frequency</strong> once per minute</p><p><strong>Trigger</strong> A creature within 30 feet increases their frightened condition.</p><hr /><p>You latch on to the fear and manipulate its magnitude. You increase or reduce the triggering creature's @UUID[Compendium.pf2e.conditionitems.Item.TBSHQspnbcqxsmjL] condition by 1. If you increase the condition, you gain a number of temporary Hit Points equal to the triggering creature's level. These temporary Hit Points remain until the end of your next turn.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Lois Loza Blog",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "actionType": {
+      "value": "reaction"
+    },
+    "actions": {
+      "value": null
+    },
+    "category": "offensive",
+    "deathNote": false
+  },
+  "_id": "oMwhadIKnagUAT6u",
+  "img": "systems/pf2e/icons/actions/Reaction.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.oMwhadIKnagUAT6u",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743372379115,
+    "modifiedTime": 1743372379115,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_key": "!items!oMwhadIKnagUAT6u"
+}

@@ -1,0 +1,59 @@
+{
+  "folder": "saYIpYe0HQ7WztW5",
+  "name": "Couatl Leap",
+  "type": "action",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p><strong>Frequency</strong> once per day</p><hr /><p>You make a mighty jump, pushing against the air like the wings of a couatl. You @UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{High Jump} or @UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Long Jump}. If you High Jump, you automatically get a critical success. If you Long Jump, you can automatically @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap} the maximum horizontal distance you could normally travel plus an additional 5 feet. You also gain the effects of @UUID[Compendium.pf2e.spells-srd.Item.TTwOKGqmZeKSyNMH] until the start of your next turn.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Lois Loza Blog",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "actionType": {
+      "value": "action"
+    },
+    "actions": {
+      "value": 3
+    },
+    "category": "offensive",
+    "deathNote": false,
+    "frequency": {
+      "max": 1,
+      "per": "day"
+    }
+  },
+  "img": "systems/pf2e/icons/actions/ThreeActions.webp",
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743372644259,
+    "modifiedTime": 1743372644259,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_id": "DgnvA54kSpp2RUne",
+  "sort": 0,
+  "_key": "!items!DgnvA54kSpp2RUne"
+}

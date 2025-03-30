@@ -1,0 +1,22 @@
+{
+  "name": "Actions",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "saYIpYe0HQ7WztW5",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743372379088,
+    "modifiedTime": 1743372379131,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_key": "!folders!saYIpYe0HQ7WztW5"
+}
