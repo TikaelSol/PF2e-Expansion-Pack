@@ -1,0 +1,35 @@
+{
+    "PFEXP": {
+        "Language": {
+            "Pnoll": "Pnoll",
+            "Rabbitfolk": "Rabbitfolk"
+        },
+        "SpecificRule": {
+            "DashingLabel": "Dashing — Moved at least 10 feet",
+            "Pnoll": {
+                "GarbageFire": "Any one creature that fails its saving throw or that you hit with your spell attack roll becomes @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}. This effect has the disease trait.",
+                "Trashtooth": {
+                    "Note": "On a critical hit with your jaws, the target becomes @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}. @Check[fortitude|against:class-spell|options:action:retch] checks to recover from this condition use your class DC or spell DC, whichever is higher."
+                }
+            },
+            "Rabbitfolk": {
+                "AdvancedRabbitfolkWeapons": "Advanced Rabbitfolk Weapons",
+                "MartialRabbitfolkWeapons": "Martial Rabbitfolk Weapons",
+                "RabbitfolkWeapons": "Rabbitfolk Weapons"
+            }
+        },
+        "Trait": {
+            "Dashing": "Dashing",
+            "Pnoll": "Pnoll",
+            "Rabbitfolk": "Rabbitfolk"
+        },
+        "TraitDescription": {
+            "Dashing": "The weapon benefits from a lead-up run thrown. If you moved at least 10 feet on the action before your attack, add a circumstance bonus to damage for that attack equal to the number of damage dice for the weapon. In addition, if you moved at least 10 feet on the action before your attack, you treat the weapon's range increment as 10 feet farther.",
+            "Rabbitfolk": "Rabbitfolk craft and use these weapons."
+        },
+        "Weapon": {
+            "WarrenKnife": "Warren Knife",
+            "WarrenSpade": "Warren Spade"
+        }
+    }
+}

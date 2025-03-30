@@ -1,290 +1,156 @@
 {
-  "name": "pf2e-expansion-pack",
-  "title": "PF2e Expansion Pack",
-  "description": "The unofficial expansion to Pathfinder 2nd edition.  Contains content from Logan Bonner, Luis Loza, Dustin Knight, Alexander Augunas, Shawn Pommier, and Thilo Graf!",
-  "url": "https://github.com/TikaelSol/PF2e-Expansion-Pack",
-  "flags": {
-    "pf2e-expansion-pack": {
-      "pf2e-homebrew": {
-        "baseWeapons": {
-          "harpoon-bow": "Harpoon Bow",
-          "nashi-bomblobber": "Nashi Bomblobber",
-          "nashi-flamebelcher": "Nashi Flamebelcher",
-          "nashi-icelancer": "Nashi Icelancer",
-          "nashi-leadgattler": "Nashi Leadgattler",
-          "nashi-leadspitter": "Nashi Leadspitter",
-          "nashi-pipsqueak": "Nashi Pipsqueak",
-          "nashi-peppergun": "Nashi Peppergun",
-          "nashi-shadowshot": "Nashi Shadowshot",
-          "nashi-thundertorch": "Nashi Thundertorch",
-          "seacatcher": "Seacatcher",
-          "war-net": "War-Net",
-          "yroometji-avalanche": "Yroometji Avalanche",
-          "yroometji-beaker": "Yroometji Beaker",
-          "yroometji-returner": "Yroometji Returner",
-          "yroometji-sirocco": "Yroometji Sirocco",
-          "yroometji-throwstick": "Yroometji Throwstick",
-          "yroometji-tsunami": "Yroometji Tsunami",
-          "yroometji-twister": "Yroometji Twister"
-        },
-        "creatureTraits": {
-          "bugbear": "Bugbear",
-          "dragonkin": "Dragonkin",
-          "felsine": "Felsine",
-          "mephian": "Mephian",
-          "nashi": "Nashi",
-          "pnoll": "Pnoll",
-          "rabbitfolk": "Rabbitfolk",
-          "yroometji": "Yroometji"
-        },
-        "equipmentTraits": {
-          "body-paint": {
-            "label": "Body Paint",
-            "description": "<p>A body paint is a magical pattern drawn onto your body that you activate when you envision its magic taking effect, which uses it up. Body paintings have the body painting trait. Applying a body painting takes 10 minutes and two hands: one to hold the jar containing the paint and the other to extract and apply the paint to your body. You can only apply body paint to yourself or to a willing creature within your reach, and you can only have one application of body paint on yourself at a time. Regardless of who applied the paint to your body, only  you can Interact with body paint that's been applied to you. Because the process is so thorough, it is usually impossible to apply body paint to an unwilling target unless that target is paralyzed, petrified, or unconscious.</p><p>While most yroometji clans have body painting traditions spanning thousands of years, the patterning painted with body paint doesn't need to be exact to take effect; the entire container need only be applied to your body in a manner that you can envision. As a magic item, body paint doesn't wash off and can't be smeared or ruined unless you specifically want to remove it. Once you've activated the body paint, its magic leaves and it becomes mundane paint that can be washed away or smeared normally.</p>"
-          },
-          "bomb": {
-            "label": "PF2E.TraitBomb",
-            "description": "PF2E.TraitDescriptionBomb"
-          },
-          "cartridge": {
-            "label": "Cartridge",
-            "description": "Alchemical cartridges are ammunition that must be fired from a firearm to take effect. Loading an alchemical cartridge into a firearm is the same as loading it with a bullet, requiring an Interact action. If fired from a weapon with the malfunction trait, an alchemical cartridge usually backfires onto you when you critically fail on an attack with the weapon, affecting you as if you were the intended target of the attack. The cartridge is activated when the firearm's attack hits a target-you don't have to activate it separately."
-          },
-          "merfolk": {
-            "label": "Merfolk",
-            "description": "Merfolk treat these items as one step closer to common unless they are unique."
-          },
-          "perfume": {
-            "label": "Perfume",
-            "description": "An alchemical perfume is a vial of pungent liquid whose odor produces an extraordinary effect when smelled. Alchemical perfumes produce a variety of effects, most notably inflicting status conditions onto foes and enhancing allies. Alchemical perfumes have the bomb, consumable, inhaled, and perfume traits."
-          }
-        },
-        "featTraits": {
-          "bugbear": "Bugbear",
-          "dragonkin": "Dragonkin",
-          "exemplar": {
-            "label": "Exemplar",
-            "description": "An ancestry feat with the exemplar trait represents ancestral abilities that are particularly powerful. A feat with this trait can be selected with a class feat or an ancestry feat. When using a class feat to select a feat with the exemplar trait, you select the feat in place of the class feat. When using an ancestry feat to select a feat with the exemplar trait, you must be at least twice the level of the feat. For example, you must be at least 12th level to select 6th level feat with the exemplar trait as an ancestry feat."
-          },
-          "exhaust": {
-            "label": "Exhaust",
-            "description": "Using these abilities is tiring and can't be done often. Once you use a exhaust action you can't use another one until you Rebound."
-          },
-          "felsine": "Felsine",
-          "mephian": "Mephian",
-          "merfolk": "Merfolk",
-          "nashi": "Nashi",
-          "pnoll": "Pnoll",
-          "rabbitfolk": "Rabbitfolk",
-          "synergy": {
-            "label": "Synergy",
-            "description": "A skill action with this trait combines training with two different skills, using one to support the other. Qualifying for a skill feat with the synergy trait requires training in both skills listed under the feat's prerequisites, though the feat is typically classified as a feat of whichever skill demands more training. If the skill feat requires equal training in two or more skills, it's considered a feat of whichever skill comes first alphabetically."
-          },
-          "yroometji": "Yroometji"
-        },
-        "spellTraits": {
-          "tanuki": "Tanuki"
-        },
-        "weaponTraits": {
-          "cable": {
-            "label": "Cable",
-            "description": "Weapons or ammunition that have attached to it a length of cable or rope that is 50 feet long, if fired into a surface it acts as rope for the sake of trying to climb, assuming the weapon pierces the surface it hits. If fired into a creature the tether remains in them and can be grabbed to prevent them from running away with a Athletics check against the creature's Athletics DC. If the cable weapon strikes less than 50 feet away, the attacker may spend an action to grab onto it."
-          },
-          "capacity-2": {
-            "label": "Capacity 2",
-            "description": "PF2E.TraitDescriptionCapacity"
-          },
-          "capacity-6": {
-            "label": "Capacity 6",
-            "description": "PF2E.TraitDescriptionCapacity"
-          },
-          "capacity-10": {
-            "label": "Capacity 10",
-            "description": "PF2E.TraitDescriptionCapacity"
-          },
-          "dashing": {
-            "label": "Dashing",
-            "description": "The weapon benefits from a lead-up run before thrown. If you moved at least 10 feet on the action before your attack, add a circumstance bonus to damage for that attack equal to the number of damage dice for the weapon. In addition, if you moved at least 10 feet on the action before your attack, you treat the weapon's range increment as 10 feet farther."
-          },
-          "fatal-d20": {
-            "label": "Fatal d20",
-            "description": "PF2E.TraitDescriptionFatal"
-          },
-          "felsine": {
-            "label": "Felsine",
-            "description": "Felsine craft and use these weapons."
-          },
-          "grenadier": {
-            "label": "Grenadier",
-            "description": "Instead of using typical ammunition for a weapon of its kind, the weapon fires alchemical bombs. In effect, you use the weapon's range and the bomb's damage and weapon traits. Grenadier weapons use the bomb weapon group's critical specialization instead of the weapon's group."
-          },
-          "hydroeffective": {
-            "label": "Hydroeffective",
-            "description": "Weapons with this quality do not suffer attack or range penalties while underwater. If it is a slashing or bludgeoning ranged attack it does not automatically miss."
-          },
-          "malfunction": {
-            "label": "Malfunction",
-            "description": "When you roll an attack roll with the weapon and the result is a critical failure, the weaponjams. A jammed weapon cannot be fired until the weapon is cleared using the Clear Firearm action"
-          },
-          "merfolk": {
-            "label": "Merfolk",
-            "description": "Merfolk treat these weapons as one step closer to common unless they are unique."
-          },
-          "multistrike": {
-            "label": "Multistrike",
-            "description": "You can use the multistrike basic action with the weapon."
-          },
-          "nashi": {
-            "label": "Nashi",
-            "description": "Nashi craft and use these weapons."
-          },
-          "rabbitfolk": {
-            "label": "Rabbitfolk",
-            "description": "Rabbitfolk craft and use these weapons."
-          },
-          "ranged-grapple": {
-            "label": "Ranged Grapple",
-            "description": "This weapon can be used to Grapple with the Athletics skill at a distance up to the weapon's first range increment. The skill check takes a –2 circumstance penalty and the DC to Escape from the weapon is reduced by 2. At the End of each round the weapon makes another grapple check using your athletics DC -2 as the result, increasing the penalty to the skill check and DC by 2 each round.. If you critically fail you are instead treated as if you had succeeded against grappling yourself for one round. You can add the weapon's item bonus to attack rolls as a bonus to the check. Using a weapon in this way causes it to not deal damage. This trait usually only appears on a thrown weapon."
-          },
-          "return": {
-            "label": "Return",
-            "description": "When you make a thrown Strike with the weapon and the result is a critical success or a miss, the weapon flies back to your hand after the Strike is complete. If your hands are full when the weapon returns, it falls to the ground in your space. If the returning rune is etched onto a weapon with the return trait, the returning rune doesn't count towards the maximum number of property runes that the weapon can be etched with."
-          },
-          "spread": {
-            "label": "Spread",
-            "description": "You can use the Spread Strike action to attack multiple foes simultaneously with the weapon."
-          },
-          "sniper": {
-            "label": "Sniper",
-            "description": "When you use the Sneak action while already undetected, you can make a ranged Strike with the weapon instead of moving. After resolving your attack, the GM rolls your Stealth check in secret and compares the result to the Perception DC of each creature you were hidden or undetected from before your attack, as described by the Sneak action You don't get to roll against a creature if, after your attack, you neither are concealed from it nor have cover or greater cover against it. You automatically become observed by such a creature."
-          },
-          "stun": {
-            "label": "Stun",
-            "description": "You can toggle the weapon's attacks between dealing lethal damage or nonlethal damage using a Interact action. Attacks that deal nonlethal damage act as if they had the nonlethal weapon trait."
-          },
-          "yroometji": {
-            "label": "Yroometji",
-            "description": "Yroometji craft and use these weapons."
-          }
+    "id": "pf2e-expansion-pack",
+    "title": "PF2e Expansion Pack",
+    "description": "The expansion pack for Pathfinder 2nd edition contains Pathfinder content made by Paizo employees like the Pnoll and Rabbitfolk ancestries!",
+    "version": "3.0.0",
+    "compatibility": {
+        "minimum": "12.331",
+        "verified": "12.331"
+    },
+    "relationships": {
+        "systems": [
+            {
+                "id": "pf2e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "6.10"
+                }
+            }
+        ]
+    },
+    "authors": [
+        {
+            "name": "Tikael",
+            "discord": "tikael",
+            "flags": {}
         }
-      }
-    }
-  },
-  "version": "2.3",
-  "packs": [
-    {
-      "label": "Expansion - Ancestries",
-      "name": "Expansion-Ancestries",
-      "path": "./packs/expansion-ancestries.db",
-      "system": "pf2e",
-      "package": "pf2e-expansion-pack",
-      "private": false,
-      "type": "Item",
-      "entity": "Item"
-    },
-    {
-      "label": "Expansion - Feats",
-      "name": "Expansion-Feats",
-      "path": "./packs/expansion-feats.db",
-      "system": "pf2e",
-      "package": "pf2e-expansion-pack",
-      "private": false,
-      "type": "Item",
-      "entity": "Item"
-    },
-    {
-      "label": "Expansion - Features",
-      "name": "Expansion-Features",
-      "path": "./packs/expansion-features.db",
-      "system": "pf2e",
-      "package": "pf2e-expansion-pack",
-      "private": false,
-      "type": "Item",
-      "entity": "Item"
-    },
-    {
-      "label": "Expansion - Heritages",
-      "name": "Expansion-Heritages",
-      "path": "./packs/expansion-heritages.db",
-      "system": "pf2e",
-      "package": "pf2e-expansion-pack",
-      "private": false,
-      "type": "Item",
-      "entity": "Item"
-    },
-    {
-      "label": "Expansion - Equipment",
-      "name": "Expansion-Equipment",
-      "path": "./packs/expansion-equipment.db",
-      "system": "pf2e",
-      "package": "pf2e-expansion-pack",
-      "private": false,
-      "type": "Item",
-      "entity": "Item"
-    },
-    {
-      "label": "Expansion - Effects",
-      "name": "Expansion-Effects",
-      "path": "./packs/expansion-effects.db",
-      "system": "pf2e",
-      "package": "pf2e-expansion-pack",
-      "private": false,
-      "type": "Item",
-      "entity": "Item"
-    },
-    {
-      "label": "Expansion - Actions",
-      "name": "Expansion-Actions",
-      "path": "./packs/expansion-actions.db",
-      "system": "pf2e",
-      "package": "pf2e-expansion-pack",
-      "private": false,
-      "type": "Item",
-      "entity": "Item"
-    },
-    {
-      "label": "Expansion - Backgrounds",
-      "name": "Expansion-Backgrounds",
-      "path": "./packs/expansion-backgrounds.db",
-      "system": "pf2e",
-      "package": "pf2e-expansion-pack",
-      "private": false,
-      "type": "Item",
-      "entity": "Item"
-    },
-    {
-      "label": "Expansion - Spells",
-      "name": "Expansion-Spells",
-      "path": "./packs/expansion-spells.db",
-      "system": "pf2e",
-      "package": "pf2e-expansion-pack",
-      "private": false,
-      "type": "Item",
-      "entity": "Item"
-    }
-  ],
-  "compatibility": {
-    "minimum": "10",
-    "verified": "10.288"
-  },
-  "relationships": {
-    "systems": [
-      {
-        "id": "pf2e",
-        "type": "system",
-        "manifest": "https://github.com/foundryvtt/pf2e/releases/latest/download/system.json",
-        "compatibility": {
-          "minimum": "4.2.6"
+    ],
+    "packs": [
+        {
+            "name": "ancestries",
+            "label": "Ancestries",
+            "path": "packs/ancestries",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "pf2e",
+            "flags": {}
+        },
+        {
+            "name": "effects",
+            "label": "Effects",
+            "path": "packs/effects",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "pf2e",
+            "flags": {}
+        },
+        {
+            "name": "equipment",
+            "label": "Equipment",
+            "path": "packs/equipment",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "pf2e",
+            "flags": {}
+        },
+        {
+            "name": "feats",
+            "label": "Feats",
+            "path": "packs/feats",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "pf2e",
+            "flags": {}
+        },
+        {
+            "name": "features",
+            "label": "Features",
+            "path": "packs/features",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "pf2e",
+            "flags": {}
+        },
+        {
+            "name": "heritages",
+            "label": "Heritages",
+            "path": "packs/heritages",
+            "type": "Item",
+            "ownership": {
+                "PLAYER": "OBSERVER",
+                "ASSISTANT": "OWNER"
+            },
+            "system": "pf2e",
+            "flags": {}
         }
-      }
+    ],
+    "packFolders": [
+        {
+            "name": "Expansion Pack",
+            "sorting": "m",
+            "packs": [
+                "ancestries",
+                "effects",
+                "equipment",
+                "feats",
+                "features",
+                "heritages"
+            ],
+            "color": null
+        }
+    ],
+    "flags": {
+        "pf2e-expansion-pack": {
+            "pf2e-homebrew": {
+                "baseWeapons": {
+                    "warren-knife": "PFEXP.Weapon.WarrenKnife",
+                    "warren-spade": "PFEXP.Weapon.WarrenSpade"
+                },
+                "creatureTraits": {
+                    "pnoll": "PFEXP.Trait.Pnoll",
+                    "rabbitfolk": "PFEXP.Trait.Rabbitfolk"
+                },
+                "featTraits": {
+                    "pnoll": "PFEXP.Trait.Pnoll",
+                    "rabbitfolk": "PFEXP.Trait.Rabbitfolk"
+                },
+                "languages": {
+                    "pnoll": "PFEXP.Language.Pnoll",
+                    "rabbitfolk": "PFEXP.Language.Rabbitfolk"
+                },
+                "weaponTraits": {
+                    "dashing": {
+                        "description": "PFEXP.TraitDescription.Dashing",
+                        "label": "PFEXP.Trait.Dashing"
+                    },
+                    "rabbitfolk": {
+                        "description": "PFEXP.TraitDescription.Rabbitfolk",
+                        "label": "PFEXP.Trait.Rabbitfolk"
+                    }
+                }
+            }
+        }
+    },
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
     ]
-  },
-  "authors": [
-    {
-      "name": "Tikael",
-      "flags": {}
-    }
-  ],
-  "manifest": "https://raw.githubusercontent.com/TikaelSol/PF2e-Expansion-Pack/master/module.json",
-  "download": "https://github.com/TikaelSol/PF2e-Expansion-Pack/archive/refs/heads/main.zip"
 }

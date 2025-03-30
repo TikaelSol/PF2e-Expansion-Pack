@@ -1,0 +1,116 @@
+{
+  "folder": "bQYs19biyipAktRS",
+  "name": "Digger's Mitts (Greater)",
+  "type": "equipment",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>These thick leather gloves are shaped to resemble the claws of a mole or other digging creature. The mitts function as a shovel when brought together, allowing you to dig through dirt. While wearing the mitts, you can make claw Strikes. Claw strikes are unarmed attacks that deal 3d4 piercing damage, have the agile and finesse traits, and are in the brawling weapon group.</p><p><strong>Activate</strong> <span class=\"pf2-icon\">2</span> envision, Interact</p><p><strong>Frequency</strong> once per day</p><hr /><p><strong>Effect</strong> The claws become stronger than steel, allowing you to dig through dirt with ease. You gain a 15-foot burrow speed and imprecise tremorsense out to 15 feet for 1 minute.</p><p>@UUID[Compendium.pf2e-expansion-pack.effects.Item.as0rPB2GspzoVkLE]{Effect: Digger's Mitts}</p>"
+    },
+    "rules": [
+      {
+        "category": "unarmed",
+        "damage": {
+          "base": {
+            "damageType": "slashing",
+            "dice": 3,
+            "die": "d4"
+          }
+        },
+        "group": "brawling",
+        "traits": [
+          "agile",
+          "finesse"
+        ],
+        "key": "Strike",
+        "slug": "claw",
+        "baseType": "claw",
+        "label": "PF2E.BattleForm.Attack.Claw"
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "invested",
+        "magical"
+      ],
+      "rarity": "common"
+    },
+    "publication": {
+      "title": "Ancestries Unleashed: Rabbitfolk",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "level": {
+      "value": 8
+    },
+    "quantity": 1,
+    "baseItem": null,
+    "bulk": {
+      "value": 0.1
+    },
+    "hp": {
+      "value": 0,
+      "max": 0
+    },
+    "hardness": 0,
+    "price": {
+      "value": {
+        "gp": 450
+      }
+    },
+    "equipped": {
+      "carryType": "worn",
+      "invested": null
+    },
+    "containerId": null,
+    "size": "med",
+    "material": {
+      "type": null,
+      "grade": null
+    },
+    "identification": {
+      "status": "identified",
+      "unidentified": {
+        "name": "Unusual Object",
+        "img": "systems/pf2e/icons/unidentified_item_icons/adventuring_gear.webp",
+        "data": {
+          "description": {
+            "value": ""
+          }
+        }
+      },
+      "misidentified": {}
+    },
+    "usage": {
+      "value": "worngloves"
+    },
+    "subitems": []
+  },
+  "img": "icons/equipment/hand/glove-studded-leather-brown.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.cREvEZGUMwt0LRXS",
+    "duplicateSource": "Item.cREvEZGUMwt0LRXS",
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743313318807,
+    "modifiedTime": 1743313341739,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_id": "cBc13alZ42Q5heid",
+  "_key": "!items!cBc13alZ42Q5heid"
+}

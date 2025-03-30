@@ -1,0 +1,71 @@
+{
+  "name": "Pouch",
+  "type": "feat",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>The pouch on your stomach can contain an item of light Bulk. This still counts toward to total amount of Bulk you can carry.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "The Pnoll",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "pnoll"
+      ],
+      "rarity": "common"
+    },
+    "level": {
+      "value": 1
+    },
+    "category": "ancestryfeature",
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+  "folder": "ro6kBYzkMV9Quvq4",
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743271550778,
+    "modifiedTime": 1743271550778,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_id": "ZnVzUj2QYEby9Vjt",
+  "sort": 0,
+  "_key": "!items!ZnVzUj2QYEby9Vjt"
+}

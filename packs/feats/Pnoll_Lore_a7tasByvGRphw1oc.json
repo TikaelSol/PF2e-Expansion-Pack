@@ -1,0 +1,88 @@
+{
+  "type": "feat",
+  "name": "Pnoll Lore",
+  "folder": "dRqkZ93aW2sd9xoM",
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "system": {
+    "level": {
+      "value": 1
+    },
+    "category": "ancestry",
+    "traits": {
+      "value": [
+        "pnoll"
+      ],
+      "otherTags": [],
+      "rarity": "common"
+    },
+    "publication": {
+      "license": "OGL",
+      "remaster": false,
+      "title": "The Pnoll",
+      "authors": ""
+    },
+    "description": {
+      "value": "<p>You practice time-tested strategies that have kept pnolls thriving for generations. You are trained in Stealth and Survival. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Pnoll Lore.</p>",
+      "gm": ""
+    },
+    "rules": [
+      {
+        "key": "ActiveEffectLike",
+        "mode": "upgrade",
+        "path": "system.skills.stealth.rank",
+        "value": 1
+      },
+      {
+        "key": "ActiveEffectLike",
+        "mode": "upgrade",
+        "path": "system.skills.survival.rank",
+        "value": 1
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "previous": {
+        "schema": null,
+        "foundry": "12.331",
+        "system": "6.11.1"
+      }
+    },
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "_id": "a7tasByvGRphw1oc",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743275104825,
+    "modifiedTime": 1743275104825,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_key": "!items!a7tasByvGRphw1oc"
+}

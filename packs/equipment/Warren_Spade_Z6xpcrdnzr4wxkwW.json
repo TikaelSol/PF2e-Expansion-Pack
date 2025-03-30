@@ -1,0 +1,140 @@
+{
+  "folder": "bQYs19biyipAktRS",
+  "name": "Warren Spade",
+  "type": "weapon",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>A warren spade is a specialized digging tool that rabbitfolk use to dig out their warrens and the tunnel networks that connect these homes. They resemble a large spade, though they are still smaller than a standard shovel. The smaller size allows a rabbitfolk to dig out a cramped tunnel without the need for a large range of movement. It deals 1d6 slashing damage. A warren spade is a martial one-handed melee weapon in the axe weapon group.</p>"
+    },
+    "rules": [],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "agile",
+        "rabbitfolk",
+        "sweep",
+        "versatile-b"
+      ],
+      "rarity": "uncommon"
+    },
+    "publication": {
+      "title": "Ancestries Unleashed: Rabbitfolk",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "level": {
+      "value": 0
+    },
+    "quantity": 1,
+    "baseItem": "warren-spade",
+    "bulk": {
+      "value": 0.1
+    },
+    "hp": {
+      "value": 0,
+      "max": 0
+    },
+    "hardness": 0,
+    "price": {
+      "value": {
+        "gp": 1
+      }
+    },
+    "equipped": {
+      "carryType": "worn",
+      "invested": null,
+      "handsHeld": 0
+    },
+    "containerId": null,
+    "size": "med",
+    "material": {
+      "type": null,
+      "grade": null
+    },
+    "identification": {
+      "status": "identified",
+      "unidentified": {
+        "name": "Unusual Weapon",
+        "img": "systems/pf2e/icons/unidentified_item_icons/weapon.webp",
+        "data": {
+          "description": {
+            "value": ""
+          }
+        }
+      },
+      "misidentified": {}
+    },
+    "usage": {
+      "value": "held-in-one-hand"
+    },
+    "category": "martial",
+    "group": "axe",
+    "bonus": {
+      "value": 0
+    },
+    "damage": {
+      "dice": 1,
+      "die": "d6",
+      "damageType": "slashing",
+      "persistent": null
+    },
+    "bonusDamage": {
+      "value": 0
+    },
+    "splashDamage": {
+      "value": 0
+    },
+    "range": null,
+    "reload": {
+      "value": null
+    },
+    "runes": {
+      "potency": 0,
+      "striking": 0,
+      "property": []
+    },
+    "specific": null,
+    "subitems": [],
+    "property1": {
+      "value": "",
+      "dice": 0,
+      "die": "",
+      "damageType": "",
+      "critDice": 0,
+      "critDie": "",
+      "critDamage": "",
+      "critDamageType": "",
+      "strikeConditionType": "",
+      "strikeConditionValue": null,
+      "criticalConditionType": "",
+      "criticalConditionValue": null
+    }
+  },
+  "_id": "Z6xpcrdnzr4wxkwW",
+  "img": "icons/tools/hand/shovel-spade-steel-blue-brown.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743313318807,
+    "modifiedTime": 1743313318807,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_key": "!items!Z6xpcrdnzr4wxkwW"
+}

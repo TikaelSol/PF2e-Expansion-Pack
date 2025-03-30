@@ -1,0 +1,85 @@
+{
+  "type": "feat",
+  "name": "Tree Hugger",
+  "folder": "jC8Femz59Wf1Rpyb",
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "system": {
+    "level": {
+      "value": 5
+    },
+    "category": "ancestry",
+    "traits": {
+      "value": [
+        "pnoll"
+      ],
+      "otherTags": [],
+      "rarity": "common"
+    },
+    "publication": {
+      "license": "OGL",
+      "remaster": false,
+      "title": "The Pnoll",
+      "authors": ""
+    },
+    "description": {
+      "value": "<p>You're an amazing climber, using your claws and tail in concert. You gain a climb Speed of 15 feet.</p><p>As a single action that has the move trait, you can drop yourself to hang upside down from a branch, outcropping, or something similar that you can wrap your tail around. You remain hanging and @UUID[Compendium.pf2e.conditionitems.Item.eIcWbB5o3pP6OIMe]{Immobilized} until you Release your grip. Only your tail is occupied; you can use the rest of your limbs normally while hanging in this way.</p>",
+      "gm": ""
+    },
+    "rules": [
+      {
+        "key": "BaseSpeed",
+        "selector": "climb",
+        "value": 15
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "previous": {
+        "schema": null,
+        "foundry": "12.331",
+        "system": "6.11.1"
+      }
+    },
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": [
+        {
+          "value": "Athletic Tail"
+        }
+      ]
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "_id": "ncqp8oMZ8BoElmft",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743275104825,
+    "modifiedTime": 1743275104825,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_key": "!items!ncqp8oMZ8BoElmft"
+}

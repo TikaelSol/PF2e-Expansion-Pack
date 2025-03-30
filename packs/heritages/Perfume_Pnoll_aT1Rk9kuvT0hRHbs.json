@@ -1,0 +1,63 @@
+{
+  "folder": "z2xf9KK76dne61R9",
+  "name": "Perfume Pnoll",
+  "type": "heritage",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Your control over your scent glands is second to none. You can disguise your scent as needed. This can be useful with @UUID[Compendium.pf2e.spells-srd.Item.i35dpZFI7jZcRoBo] and similar effects, and you can't be detected by the scent special ability. This also makes it more difficult for others to get a sense of your personal hygiene.</p><p>You have also conditioned yourself to resist strong scents, gaining a +2 circumstance bonus to saving throws against olfactory effects.</p>"
+    },
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "selector": "saving-throw",
+        "value": 2,
+        "type": "circumstance",
+        "predicate": [
+          "item:trait:olfactory"
+        ]
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "publication": {
+      "title": "The Pnoll",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "ancestry": {
+      "name": "Pnoll",
+      "slug": "pnoll",
+      "uuid": "Compendium.pf2e-expansion-pack.ancestries.Item.uHm4vcJJAivbscJC"
+    }
+  },
+  "_id": "aT1Rk9kuvT0hRHbs",
+  "img": "icons/magic/air/wind-vortex-swirl-purple.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743273101503,
+    "modifiedTime": 1743273101503,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_key": "!items!aT1Rk9kuvT0hRHbs"
+}

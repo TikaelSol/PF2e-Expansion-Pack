@@ -1,0 +1,110 @@
+{
+  "name": "Pnoll",
+  "type": "ancestry",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>The sound of padding paws in the night, a tree branch creaking under weight, the snuffling nose in the rubbish heap—these are signs that a pnoll is near. Pnolls are hardy, resourceful, clever, and a bit hapless; they generally like to avoid attention, preferring instead to just do their own thing. Nomadic and nocturnal, they travel through settlements under the moonlight, collecting useful refuse.</p>"
+    },
+    "rules": [],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "humanoid",
+        "pnoll"
+      ],
+      "rarity": "rare"
+    },
+    "publication": {
+      "title": "The Pnoll",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "hp": 10,
+    "size": "med",
+    "reach": 5,
+    "speed": 25,
+    "boosts": {
+      "0": {
+        "value": [
+          "con"
+        ]
+      },
+      "1": {
+        "value": [
+          "int"
+        ]
+      },
+      "2": {
+        "value": [
+          "str",
+          "dex",
+          "con",
+          "int",
+          "wis",
+          "cha"
+        ]
+      }
+    },
+    "flaws": {
+      "0": {
+        "value": [
+          "cha"
+        ]
+      }
+    },
+    "languages": {
+      "value": [
+        "common",
+        "pnoll"
+      ],
+      "custom": ""
+    },
+    "additionalLanguages": {
+      "count": 0,
+      "value": [
+        "goblin",
+        "halfling",
+        "orcish",
+        "sakvroth"
+      ],
+      "custom": ""
+    },
+    "items": {
+      "IEMPe": {
+        "uuid": "Compendium.pf2e-expansion-pack.features.Item.ZnVzUj2QYEby9Vjt",
+        "img": "icons/containers/bags/coinpouch-simple-leather-brown.webp",
+        "name": "Pouch",
+        "level": 1
+      }
+    },
+    "vision": "low-light-vision"
+  },
+  "img": "systems/pf2e/icons/default-icons/ancestry.svg",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743271911510,
+    "modifiedTime": 1743271911510,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_id": "uHm4vcJJAivbscJC",
+  "sort": 0,
+  "_key": "!items!uHm4vcJJAivbscJC"
+}
