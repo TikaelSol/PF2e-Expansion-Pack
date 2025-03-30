@@ -1,0 +1,68 @@
+{
+  "folder": "z2xf9KK76dne61R9",
+  "name": "Snakebitten Pnoll",
+  "type": "heritage",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Your circulatory and digestive systems rebuff poisons. You gain poison resistance equal to half your level (minimum 1) and a +1 circumstance bonus to saving throws against poisons.</p>"
+    },
+    "rules": [
+      {
+        "key": "Resistance",
+        "type": "poison",
+        "value": "max(1,floor(@actor.level/2))"
+      },
+      {
+        "key": "FlatModifier",
+        "selector": "saving-throw",
+        "value": 1,
+        "type": "circumstance",
+        "predicate": [
+          "item:trait:poison"
+        ]
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "publication": {
+      "title": "The Pnoll",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "ancestry": {
+      "name": "Pnoll",
+      "slug": "pnoll",
+      "uuid": "Compendium.pf2e-expansion-pack.ancestries.Item.uHm4vcJJAivbscJC"
+    }
+  },
+  "img": "icons/creatures/reptiles/serpent-horned-green.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743273101503,
+    "modifiedTime": 1743273101503,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_id": "JNKX4lp9cX4GvwSa",
+  "_key": "!items!JNKX4lp9cX4GvwSa"
+}

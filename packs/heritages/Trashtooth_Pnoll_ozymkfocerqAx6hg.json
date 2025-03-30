@@ -1,0 +1,83 @@
+{
+  "folder": "z2xf9KK76dne61R9",
+  "name": "Trashtooth Pnoll",
+  "type": "heritage",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>You eat trash, and you eat it well. You gain a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the brawling group and have the finesse and unarmed traits.</p><p>On a critical hit with your jaws, the target becomes @UUID[Compendium.pf2e.conditionitems.Item.fesd1n5eVhpCSS18]{Sickened 1}. @Check[fortitude|against:class-spell|options:action:retch] checks to recover from this condition use your class DC or spell DC, whichever is higher.</p>"
+    },
+    "rules": [
+      {
+        "category": "unarmed",
+        "damage": {
+          "base": {
+            "damageType": "piercing",
+            "dice": 1,
+            "die": "d6"
+          }
+        },
+        "group": "brawling",
+        "key": "Strike",
+        "label": "PF2E.Weapon.Base.jaws",
+        "range": null,
+        "slug": "jaws",
+        "baseType": "jaws",
+        "traits": [
+          "unarmed",
+          "finesse"
+        ]
+      },
+      {
+        "key": "Note",
+        "title": "{item|name}",
+        "selector": "jaws-damage",
+        "text": "PFEXP.SpecificRule.Pnoll.Trashtooth.Note",
+        "outcome": [
+          "criticalSuccess"
+        ]
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "publication": {
+      "title": "The Pnoll",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "ancestry": {
+      "name": "Pnoll",
+      "slug": "pnoll",
+      "uuid": "Compendium.pf2e-expansion-pack.ancestries.Item.uHm4vcJJAivbscJC"
+    }
+  },
+  "img": "icons/commodities/bones/bone-jaw-teeth-white.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": "Item.ozymkfocerqAx6hg",
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743273101503,
+    "modifiedTime": 1743273101503,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_id": "ozymkfocerqAx6hg",
+  "_key": "!items!ozymkfocerqAx6hg"
+}

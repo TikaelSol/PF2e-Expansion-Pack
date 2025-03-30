@@ -1,0 +1,81 @@
+{
+  "type": "feat",
+  "name": "Look Out!",
+  "folder": "FVP0qqzCYG6qdyyE",
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "system": {
+    "level": {
+      "value": 9
+    },
+    "category": "ancestry",
+    "traits": {
+      "value": [
+        "fortune",
+        "manipulate",
+        "rabbitfolk"
+      ],
+      "otherTags": [],
+      "rarity": "common"
+    },
+    "publication": {
+      "license": "OGL",
+      "remaster": false,
+      "title": "Ancestries Unleashed: Rabbitfolk",
+      "authors": ""
+    },
+    "description": {
+      "value": "<p><strong>Frequency</strong> once per day</p><p><strong>Trigger</strong> An adjacent ally is about to attempt a saving throw.</p><hr /><p>You recognize incoming danger and try to move your ally away from trouble. The triggering ally Steps and can roll twice and take the better result on the triggering saving throw.</p>",
+      "gm": ""
+    },
+    "rules": [],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "previous": {
+        "schema": null,
+        "foundry": "12.331",
+        "system": "6.11.1"
+      }
+    },
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "reaction"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null,
+    "frequency": {
+      "max": 1,
+      "per": "day"
+    }
+  },
+  "_id": "NPys2YrU5SkOqsUW",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743297009930,
+    "modifiedTime": 1743297051842,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_key": "!items!NPys2YrU5SkOqsUW"
+}

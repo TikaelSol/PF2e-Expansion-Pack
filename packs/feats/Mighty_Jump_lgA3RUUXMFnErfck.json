@@ -1,0 +1,75 @@
+{
+  "type": "feat",
+  "name": "Mighty Jump",
+  "folder": "QeMKo2zpDkcgJLKu",
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "system": {
+    "level": {
+      "value": 5
+    },
+    "category": "ancestry",
+    "traits": {
+      "value": [
+        "rabbitfolk"
+      ],
+      "otherTags": [],
+      "rarity": "common"
+    },
+    "publication": {
+      "license": "OGL",
+      "remaster": false,
+      "title": "Ancestries Unleashed: Rabbitfolk",
+      "authors": ""
+    },
+    "description": {
+      "value": "<p>You throw yourself into a powerful leap with reckless abandon. You make a @UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Long Jump} and double the result of your check. You can @UUID[Compendium.pf2e.actionspf2e.Item.d5I6018Mci2SWokk]{Leap} up twice your Speed with this jump. When you land, you fall @UUID[Compendium.pf2e.conditionitems.Item.j91X7x0XSomq8d60]{Prone}. You can instead spend 3 actions to make a more powerful jump that allows you to Leap up to triple your Speed.</p>",
+      "gm": ""
+    },
+    "rules": [],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "previous": {
+        "schema": null,
+        "foundry": "12.331",
+        "system": "6.11.1"
+      }
+    },
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "action"
+    },
+    "actions": {
+      "value": 2
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "_id": "lgA3RUUXMFnErfck",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743297009930,
+    "modifiedTime": 1743297009930,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_key": "!items!lgA3RUUXMFnErfck"
+}

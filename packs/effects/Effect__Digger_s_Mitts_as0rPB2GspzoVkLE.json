@@ -1,0 +1,153 @@
+{
+  "name": "Effect: Digger's Mitts",
+  "type": "effect",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>You gain a burrow speed and tremorsense, depending on the source item.</p>"
+    },
+    "rules": [
+      {
+        "adjustName": false,
+        "choices": [
+          {
+            "predicate": [
+              {
+                "or": [
+                  "parent:origin:item:slug:diggers-mitts",
+                  {
+                    "not": "parent:origin:item"
+                  }
+                ]
+              }
+            ],
+            "value": "Compendium.pf2e-expansion-pack.equipment.Item.cREvEZGUMwt0LRXS"
+          },
+          {
+            "predicate": [
+              {
+                "or": [
+                  "parent:origin:item:slug:diggers-mitts-greater",
+                  {
+                    "not": "parent:origin:item"
+                  }
+                ]
+              }
+            ],
+            "value": "Compendium.pf2e-expansion-pack.equipment.Item.cBc13alZ42Q5heid"
+          },
+          {
+            "predicate": [
+              {
+                "or": [
+                  "parent:origin:item:slug:diggers-mitts-major",
+                  {
+                    "not": "parent:origin:item"
+                  }
+                ]
+              }
+            ],
+            "value": "Compendium.pf2e-expansion-pack.equipment.Item.rTEuQvi08RkOrESQ"
+          }
+        ],
+        "key": "ChoiceSet",
+        "prompt": "PF2E.SpecificRule.Prompt.EquipmentVariety",
+        "rollOption": "diggers-mitts"
+      },
+      {
+        "key": "BaseSpeed",
+        "selector": "burrow",
+        "value": 15,
+        "predicate": [
+          {
+            "or": [
+              "diggers-mitts:diggers-mitts",
+              "diggers-mitts:diggers-mitts-greater"
+            ]
+          }
+        ]
+      },
+      {
+        "key": "BaseSpeed",
+        "selector": "burrow",
+        "value": 25,
+        "predicate": [
+          "diggers-mitts:diggers-mitts-major"
+        ]
+      },
+      {
+        "key": "Sense",
+        "selector": "tremorsense",
+        "acuity": "imprecise",
+        "range": 15,
+        "predicate": [
+          "diggers-mitts:diggers-mitts-greater"
+        ]
+      },
+      {
+        "key": "Sense",
+        "selector": "tremorsense",
+        "acuity": "imprecise",
+        "range": 30,
+        "predicate": [
+          "diggers-mitts:diggers-mitts-major"
+        ]
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "publication": {
+      "title": "Ancestries Unleashed: Rabbitfolk",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "level": {
+      "value": 1
+    },
+    "duration": {
+      "value": 1,
+      "unit": "minutes",
+      "expiry": "turn-start",
+      "sustained": false
+    },
+    "start": {
+      "value": 0,
+      "initiative": null
+    },
+    "tokenIcon": {
+      "show": true
+    },
+    "badge": null,
+    "context": null,
+    "unidentified": false
+  },
+  "img": "icons/equipment/hand/glove-studded-leather-brown.webp",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743313031616,
+    "modifiedTime": 1743313384047,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_id": "as0rPB2GspzoVkLE",
+  "sort": 0,
+  "_key": "!items!as0rPB2GspzoVkLE"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Pnoll",
+  "sorting": "m",
+  "folder": null,
+  "type": "Item",
+  "_id": "X1a5pqKHiGRoccR8",
+  "description": "",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743275104748,
+    "modifiedTime": 1743275104855,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_key": "!folders!X1a5pqKHiGRoccR8"
+}

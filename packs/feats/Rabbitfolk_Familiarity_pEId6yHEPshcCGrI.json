@@ -1,0 +1,129 @@
+{
+  "type": "feat",
+  "name": "Rabbitfolk Familiarity",
+  "folder": "xr58dYWLXmb0cjwd",
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "system": {
+    "level": {
+      "value": 1
+    },
+    "category": "ancestry",
+    "traits": {
+      "value": [
+        "rabbitfolk"
+      ],
+      "otherTags": [],
+      "rarity": "common"
+    },
+    "publication": {
+      "license": "OGL",
+      "remaster": false,
+      "title": "Ancestries Unleashed: Rabbitfolk",
+      "authors": ""
+    },
+    "description": {
+      "value": "<p>You favor weapons that let you attack with quick strikes. You are trained with the hatchet, light hammer, sickle, shortsword, and starknife. In addition, you gain access to all uncommon rabbitfolk weapons. For you, martial rabbitfolk weapons are simple weapons and advanced rabbitfolk weapons are martial weapons.</p>",
+      "gm": ""
+    },
+    "rules": [
+      {
+        "definition": [
+          {
+            "or": [
+              "item:base:hatchet",
+              "item:base:light-hammer",
+              "item:base:sickle",
+              "item:base:shortsword",
+              "item:base:starknife"
+            ]
+          }
+        ],
+        "key": "MartialProficiency",
+        "label": "PFEXP.SpecificRule.Rabbitfolk.RabbitfolkWeapons",
+        "value": 1,
+        "slug": "rabbitfolk-weapons"
+      },
+      {
+        "definition": [
+          {
+            "or": [
+              {
+                "and": [
+                  "item:trait:rabbitfolk",
+                  "item:category:martial"
+                ]
+              }
+            ]
+          }
+        ],
+        "key": "MartialProficiency",
+        "label": "PFEXP.SpecificRule.Rabbitfolk.MartialRabbitfolkWeapons",
+        "sameAs": "simple",
+        "slug": "martial-rabbitfolk-weapons"
+      },
+      {
+        "definition": [
+          {
+            "or": [
+              {
+                "and": [
+                  "item:trait:rabbitfolk",
+                  "item:category:advanced"
+                ]
+              }
+            ]
+          }
+        ],
+        "key": "MartialProficiency",
+        "label": "PFEXP.SpecificRule.Rabbitfolk.AdvancedRabbitfolkWeapons",
+        "sameAs": "simple",
+        "slug": "advanced-rabbitfolk-weapons"
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "previous": {
+        "schema": null,
+        "foundry": "12.331",
+        "system": "6.11.1"
+      }
+    },
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "passive"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "_id": "pEId6yHEPshcCGrI",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743297009930,
+    "modifiedTime": 1743297009930,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_key": "!items!pEId6yHEPshcCGrI"
+}

@@ -1,0 +1,75 @@
+{
+  "type": "feat",
+  "name": "Pnolltimate Sacrifice",
+  "folder": "yblDpi6kQY1UTD9v",
+  "img": "icons/sundries/books/book-red-exclamation.webp",
+  "system": {
+    "level": {
+      "value": 13
+    },
+    "category": "ancestry",
+    "traits": {
+      "value": [
+        "pnoll"
+      ],
+      "otherTags": [],
+      "rarity": "common"
+    },
+    "publication": {
+      "license": "OGL",
+      "remaster": false,
+      "title": "The Pnoll",
+      "authors": ""
+    },
+    "description": {
+      "value": "<p><strong>Trigger</strong> An ally adjacent to you is targeted with an attack, and you're within reach or range of the attack.</p><hr /><p>You bravely throw your sturdy and spacious frame between the attack and your ally. The attack targets you instead. If the attack damages you and you have the @UUID[Compendium.pf2e-expansion-pack.feats.Item.ECILYLDNb1wlys61]{Play Dead} feat, you can use Play Dead as part of your Pnolltimate Sacrifice.</p>",
+      "gm": ""
+    },
+    "rules": [],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "previous": {
+        "schema": null,
+        "foundry": "12.331",
+        "system": "6.11.1"
+      }
+    },
+    "onlyLevel1": false,
+    "maxTakable": 1,
+    "actionType": {
+      "value": "reaction"
+    },
+    "actions": {
+      "value": null
+    },
+    "prerequisites": {
+      "value": []
+    },
+    "subfeatures": {
+      "proficiencies": {},
+      "senses": {},
+      "suppressedFeatures": []
+    },
+    "location": null
+  },
+  "_id": "JfX4b1fCvc9kFuO9",
+  "effects": [],
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743275104825,
+    "modifiedTime": 1743275141555,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_key": "!items!JfX4b1fCvc9kFuO9"
+}

@@ -1,0 +1,64 @@
+{
+  "folder": "z2xf9KK76dne61R9",
+  "name": "Pouchful Pnoll",
+  "type": "heritage",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Your pouch is big and bountiful. It can hold up to four items of light Bulk. You get a +2 circumstance bonus to Stealth checks to @UUID[Compendium.pf2e.actionspf2e.Item.qVNVSmsgpKFGk9hV]{Conceal an Object} in your pouch.</p><p>Once per round, you can Interact to draw an item from your pouch as a free action instead of as a single action.</p>"
+    },
+    "rules": [
+      {
+        "key": "FlatModifier",
+        "selector": "stealth",
+        "value": 2,
+        "type": "circumstance",
+        "predicate": [
+          "action:conceal-an-object",
+          "conceal-in-pouch"
+        ]
+      }
+    ],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "publication": {
+      "title": "The Pnoll",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "ancestry": {
+      "name": "Pnoll",
+      "slug": "pnoll",
+      "uuid": "Compendium.pf2e-expansion-pack.ancestries.Item.uHm4vcJJAivbscJC"
+    }
+  },
+  "img": "icons/magic/air/air-smoke-casting.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1743273101503,
+    "modifiedTime": 1743273101503,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_id": "pkEv0RC9edThNrDO",
+  "_key": "!items!pkEv0RC9edThNrDO"
+}
