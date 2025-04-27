@@ -1,0 +1,59 @@
+{
+  "folder": "jJgEnpLgYNGPceY1",
+  "name": "Arctic Rabbit",
+  "type": "heritage",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You live among the frozen regions of the world and developed a resilience against frigid environments, granting you cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Ancestries Unleashed: Rabbitfolk",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "rules": [
+      {
+        "key": "Resistance",
+        "type": "cold",
+        "value": "max(1,floor(@actor.level/2))"
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "ancestry": {
+      "name": "Rabbitfolk",
+      "slug": "rabbitfolk",
+      "uuid": "Compendium.pf2e-expansion-pack.ancestries.Item.txUEQZ5fI7YyNEgV"
+    }
+  },
+  "_id": "lNFSPjEicUb3FEnR",
+  "img": "icons/magic/water/snowflake-ice-blue-white.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745721391128,
+    "modifiedTime": 1745721391128,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_key": "!items!lNFSPjEicUb3FEnR"
+}
