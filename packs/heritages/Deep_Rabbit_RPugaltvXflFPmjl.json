@@ -1,0 +1,58 @@
+{
+  "folder": "jJgEnpLgYNGPceY1",
+  "name": "Deep Rabbit",
+  "type": "heritage",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>Your ancestors lived in warrens that tunneled deep into the ground, much further than those of other rabbitfolk, granting you the ability to see in the dark. You gain darkvision.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Ancestries Unleashed: Rabbitfolk",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "rules": [
+      {
+        "key": "Sense",
+        "selector": "darkvision"
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "ancestry": {
+      "name": "Rabbitfolk",
+      "slug": "rabbitfolk",
+      "uuid": "Compendium.pf2e-expansion-pack.ancestries.Item.txUEQZ5fI7YyNEgV"
+    }
+  },
+  "img": "icons/magic/perception/silhouette-stealth-shadow.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745721391128,
+    "modifiedTime": 1745721391128,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_id": "RPugaltvXflFPmjl",
+  "_key": "!items!RPugaltvXflFPmjl"
+}

@@ -1,0 +1,58 @@
+{
+  "folder": "jJgEnpLgYNGPceY1",
+  "name": "Warrenbound Rabbit",
+  "type": "heritage",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You spent a lot of your early years among warrens, allowing you to move between these tunnels with ease. You gain the @UUID[Compendium.pf2e.feats-srd.Item.3G8xUlgCjRmRJNfP]{Quick Squeeze} feat as a bonus feat, even if you aren't trained in Acrobatics. Tight spaces not tight enough to require the @UUID[Compendium.pf2e.actionspf2e.Item.kMcV8e5EZUxa6evt]{Squeeze} action aren't difficult terrain for you.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Ancestries Unleashed: Rabbitfolk",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "rules": [
+      {
+        "key": "GrantItem",
+        "uuid": "Compendium.pf2e.feats-srd.Item.3G8xUlgCjRmRJNfP"
+      }
+    ],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "ancestry": {
+      "name": "Rabbitfolk",
+      "slug": "rabbitfolk",
+      "uuid": "Compendium.pf2e-expansion-pack.ancestries.Item.txUEQZ5fI7YyNEgV"
+    }
+  },
+  "img": "icons/environment/wilderness/cave-entrance-mountain-blue.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745721391128,
+    "modifiedTime": 1745721391128,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_id": "foQwUe88aWFt6ViF",
+  "_key": "!items!foQwUe88aWFt6ViF"
+}

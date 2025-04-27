@@ -1,0 +1,97 @@
+{
+  "name": "Rabbitfolk",
+  "type": "ancestry",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p><em>Rabbitfolk are curious people who have a knack for getting into and out of trouble. They are especially sociable and keep close friends. In combat, they use their wit and agility to maneuver around foes and avoid dangers.</em></p>"
+    },
+    "rules": [],
+    "slug": null,
+    "_migration": {
+      "version": 0.935,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": [
+        "humanoid",
+        "rabbitfolk"
+      ],
+      "rarity": "common"
+    },
+    "publication": {
+      "title": "Ancestries Unleashed: Rabbitfolk",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "hp": 8,
+    "size": "med",
+    "reach": 5,
+    "speed": 30,
+    "boosts": {
+      "0": {
+        "value": [
+          "dex"
+        ]
+      },
+      "1": {
+        "value": [
+          "int"
+        ]
+      },
+      "2": {
+        "value": [
+          "str",
+          "dex",
+          "con",
+          "int",
+          "wis",
+          "cha"
+        ]
+      }
+    },
+    "flaws": {
+      "0": {
+        "value": [
+          "wis"
+        ]
+      }
+    },
+    "languages": {
+      "value": [
+        "common"
+      ],
+      "custom": ""
+    },
+    "additionalLanguages": {
+      "count": 0,
+      "value": [],
+      "custom": ""
+    },
+    "items": {},
+    "vision": "low-light-vision"
+  },
+  "img": "modules/pf2e-expansion-pack/assets/rabbitfolk.svg",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745719562957,
+    "modifiedTime": 1745720285830,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_id": "txUEQZ5fI7YyNEgV",
+  "sort": 0,
+  "_key": "!items!txUEQZ5fI7YyNEgV"
+}

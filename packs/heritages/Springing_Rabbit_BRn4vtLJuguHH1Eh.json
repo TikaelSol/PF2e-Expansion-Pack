@@ -1,0 +1,53 @@
+{
+  "folder": "jJgEnpLgYNGPceY1",
+  "name": "Springing Rabbit",
+  "type": "heritage",
+  "effects": [],
+  "system": {
+    "_migration": {
+      "version": 0.935,
+      "previous": null
+    },
+    "description": {
+      "value": "<p>You've developed powerful legs capable of leaping great distances. When Leaping horizontally, you move an additional 5 feet. You don't automatically fail your checks to @UUID[Compendium.pf2e.actionspf2e.Item.2HJ4yuEFY1Cast4h]{High Jump} or @UUID[Compendium.pf2e.actionspf2e.Item.JUvAvruz7yRQXfz2]{Long Jump} if you don't Stride at least 10 feet first. In addition, when you make a Long Jump, you can jump a distance up to 10 higher than Athletics check result, though still with the normal maximum of your Speed.</p>",
+      "gm": ""
+    },
+    "publication": {
+      "title": "Ancestries Unleashed: Rabbitfolk",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "rules": [],
+    "slug": null,
+    "traits": {
+      "otherTags": [],
+      "value": [],
+      "rarity": "common"
+    },
+    "ancestry": {
+      "name": "Rabbitfolk",
+      "slug": "rabbitfolk",
+      "uuid": "Compendium.pf2e-expansion-pack.ancestries.Item.txUEQZ5fI7YyNEgV"
+    }
+  },
+  "img": "icons/skills/movement/feet-winged-boots-glowing-yellow.webp",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "Hi8Er7eqL8qW80xd": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "12.331",
+    "systemId": "pf2e",
+    "systemVersion": "6.11.1",
+    "createdTime": 1745721391128,
+    "modifiedTime": 1745721391128,
+    "lastModifiedBy": "Hi8Er7eqL8qW80xd"
+  },
+  "_id": "BRn4vtLJuguHH1Eh",
+  "_key": "!items!BRn4vtLJuguHH1Eh"
+}
